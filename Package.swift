@@ -8,7 +8,7 @@ let package = Package(
     	// We need to use the fork for now. Sorry
     	// A workaround for projects like RPiLight that depend on the fork.
     	// Swift 4 doesn't have this problem, but Swift 3.1.1 does. 
-        .package(url: "https://github.com/uraimo/SwiftyGPIO.git", majorVersion: 1),
+  //      .package(url: "https://github.com/uraimo/SwiftyGPIO.git", majorVersion: 1),
     ],
     swiftLanguageVersions: [3, 4]
 )
