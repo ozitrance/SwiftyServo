@@ -10,5 +10,5 @@ let package = Package(
     	// Swift 4 doesn't have this problem, but Swift 3.1.1 does. 
   //      .package(url: "https://github.com/uraimo/SwiftyGPIO.git", majorVersion: 1),
     ],
-    swiftLanguageVersions: [3, 4]
+//    swiftLanguageVersions: [3, 4]
 )
